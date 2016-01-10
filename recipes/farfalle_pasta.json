@@ -1,0 +1,37 @@
+{
+    "name": "Farfalle Pasta",
+    "serves": "2-4",
+    "time": {
+        "preparation": "10 minutes",
+        "cooking": "12-15 minutes"
+    },
+    "ingredients": [
+        "250g farfalle pasta",
+        "25g butter",
+        "2 shallots, finely chopped",
+        "125g button mushrooms",
+        "375g courgettes, cut into 5cm thin strips",
+        "70g parma ham, cut into strips",
+        "200ml creme fraiche",
+        "75g grated parmesan cheese",
+        "black pepper",
+        "basil leaves to garnish"
+    ],
+    "instructions": [
+        "Cook the pasta in boiling water for 10 minutes until just tender",
+        "Meanwhile, melt the butter in a large frying pan and fry the shallots, mushrooms and courgetes, stirring occasionally for 6-8 minutes",
+        "Stir in the Parma ham, creme fraiche, parmesan and pepper to taste",
+        "Drain the pasta and mix with the other ingredients in the pan. Heat through, transfer to a warmed serving dish and garnish with fresh basil"
+    ],
+    "sides": [
+        "ciabatta bread",
+        "green salad"
+    ],
+    "alterations": [
+        "Any type of pasta",
+        "Salad onions or small onions instead of shallots. Add 1-2 gloves of garlic for extra flavor",
+        "Try using other hams such as prosciutto or pancetta",
+        "Substitute a diced red or green pepper, or small broccoli florets for the courgettes and mushrooms",
+        "If desired, stir chopped basil leaves into the dish"
+    ]
+}

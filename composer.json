@@ -1,0 +1,16 @@
+{
+    "name": "dolondro/cooking",
+    "description": "List of cooking recipes",
+    "authors": [
+        {
+            "name": "Doug",
+            "email": "dougnelson@silktide.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dolondro\\Cooking\\": "src"
+        }
+    }
+}
