@@ -1,6 +1,6 @@
 {
-    "name": "dolondro/cooking",
-    "description": "List of cooking recipes",
+    "name": "dolondro/cookbook",
+    "description": "Because a JSON formatted recipe is surprisingly easy to read",
     "authors": [
         {
             "name": "Doug",
@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Dolondro\\Cooking\\": "src"
+            "Dolondro\\CookBook\\": "src"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Dolondro\Cooking;
+namespace Dolondro\CookBook;
 
 class RecipeCollection implements \IteratorAggregate
 {

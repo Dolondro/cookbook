@@ -1,5 +1,5 @@
 <?php
-namespace Dolondro\Cooking;
+namespace Dolondro\CookBook;
 
 class Recipe
 {
